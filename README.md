@@ -5,4 +5,5 @@ This is the branch for Bamberg Winter School 2020 for the course "Python Program
 ## Contents
 1. The file "wikipedia_game.ipynb" derives a function to randomly follow Wikipedia links until the initial Wikipedia page is reached.
 
+2. The file "stock_price_monitor.ipynb" views stocks on boerse.de.
 
