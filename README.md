@@ -5,7 +5,7 @@ This is the branch for Bamberg Winter School 2020 for the course "Python Program
 ## Contents
 1. The file "wikipedia_game.ipynb" derives a function to randomly follow Wikipedia links until the initial Wikipedia page is reached. The function is only dependent on a single input url, which needs to be provided as string.
 
-2. The file "stock_price_monitor.ipynb" views stocks on boerse.de. The variable of interest are the current stock price, the 24h relative stock development and the 24h absolute stock development. The derived function takes three parameters as input:
+2. The file "stock_price_monitor.ipynb" views stocks on boerse.de. The variables of interest are the current stock price, the 24h relative stock development and the 24h absolute stock development. The derived function takes three parameters as input:
     * url: a url of boerse.de that yields to a stock. It needs to be provided as string.
     * name: the name of the stock as string.
     * minutes: a integer, which stands for the number of minutes to watch the stock. It is equal to the number of requests.
