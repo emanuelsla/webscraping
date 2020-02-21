@@ -2,6 +2,8 @@
 
 This is the branch for Bamberg Winter School 2020 for the course "Python Programming for Social Sciences: Collecting, Analysing and Presenting Social Media Data (WC105)".
 
+
+---
 ## Contents
 1. The file "wikipedia_game.ipynb" derives a function to randomly follow Wikipedia links until the initial Wikipedia page is reached. The function is only dependent on a single input url, which needs to be provided as string.
 
@@ -14,3 +16,6 @@ This is the branch for Bamberg Winter School 2020 for the course "Python Program
     * hashtag: a valid Instagram hashtag as string.
     * max_pictures: integer that stands for the maximum number of images to download.
     * directory: a string of the working directory in order to save the images.
+
+---
+For Content 2 and Content 3 are Python files included.
